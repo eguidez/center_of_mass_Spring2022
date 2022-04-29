@@ -1,2 +1,2 @@
-# This code is to create a .xyz file containing two molecules at various distances
+# This code computes the xyz coordinates of the center of mass of two molecules
 ## Author: Emilie Guidez Date: 04/2022
